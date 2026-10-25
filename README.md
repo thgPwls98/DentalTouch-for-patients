@@ -1,4 +1,4 @@
-# DentalTouch — Patient Pre-Examination
+# DentalTouch — 환자용 스마트 예진 시스템
 
 > 환자 친화형 스마트 치과 예진 웹 프로토타입
 
